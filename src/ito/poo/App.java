@@ -8,7 +8,7 @@ public class App {
           mascota= new Mascota("Argos",4,"perro","Beagle");
           System.out.println(mascota);
           mascota.cumpleAños();
-          System.out.println("Despues de cumplir años"+mascota);
+          System.out.println("Despues de cumplir años "+mascota);
     }
 
     public static void main(String[] args){ run(); }
